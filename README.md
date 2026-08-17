@@ -1,7 +1,8 @@
 # Mobile-Phone-Sales-Dashboard-
 An interactive Power BI dashboard that provides a complete view of mobile phone sales performance — covering sales trends, product performance, regional distribution, payment behavior, and customer segmentation.
+
+
 Access - https://app.powerbi.com/reportEmbed?reportId=47883054-8520-493d-bf26-274e65bf708c&autoAuth=true&ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f
-Show Image Show Image Show Image
 
 Overview
 
